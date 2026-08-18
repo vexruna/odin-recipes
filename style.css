@@ -1,0 +1,47 @@
+html {
+	background-color: wheat;
+	width: 600px;
+	margin: 0 auto;
+}
+body {
+  width: 580px;
+  height: auto;
+  background-color: cornflowerblue;
+  padding: 16px;
+  outline: 2px solid;
+}
+hr {
+  color: white;
+}
+h1 {
+  width: 200px;
+  margin: 0px auto;
+  font-family: 'Brush Script MT', 'Lucida Handwriting', 'Georgia', cursive;
+  text-align: center;
+}
+h5 {
+  width: 200px;
+  color: white;
+  margin: 8px auto;
+}
+img {
+  display: block;
+  width: 64px;
+  height: 64px;
+  margin: 8px auto;
+}
+.recipelist {
+  width: 300px;
+  margin: 0px auto;
+}
+li {
+  padding: 8px;
+  margin: 8px auto;
+  list-style-type: none;
+  background-color: white;
+}
+li > a > img {
+  display: inline;
+  margin: 12px 6px;
+  vertical-align: middle;
+}

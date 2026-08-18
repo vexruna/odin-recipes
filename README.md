@@ -2,6 +2,3 @@
 Completely original writing and images made by me on the spot
 If you read this say hi
 
-## TODO:
-    CSS Styling
-
